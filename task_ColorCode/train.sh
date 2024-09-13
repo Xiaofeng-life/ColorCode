@@ -1,0 +1,1 @@
+python train.py --config configs/dim8_150k_bs6_NoTransBlock_SSIM.yaml --device cuda:0 --res_dir ../results/CECF/ --grad_acc 1 # 242
