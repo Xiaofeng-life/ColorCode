@@ -112,7 +112,7 @@ and (iv) an interpolating process P4 to obtain underwater organisms with diverse
 <br>
 
 
-<!-- 这是一个注释 -->
+<!-- 这是一个注释. -->
 
 ## 🍓 The difference between ColorCode and StyleCode
 
