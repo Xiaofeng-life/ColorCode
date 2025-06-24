@@ -80,7 +80,7 @@ Color adaptation, enabling controllable adjustments of long-wavelength color com
 
 ## 🐳 Color Interpolation
 
-Color interpolation, allowing for the smooth generation of multiple colors through continuous sampling of the color code as follows.
+Color interpolation, allowing for the smooth generation of multiple colors through a continuous sampling method of the color code as follows.
 
 <figure>
 <div align="center">
@@ -116,7 +116,7 @@ and (iv) an interpolating process P4 to obtain underwater organisms with diverse
 <br>
 
 
-<!-- 这是一个注释 -->
+<!-- 这是一个注释. -->
 
 ## 🍓 The difference between ColorCode and StyleCode
 
