@@ -1,4 +1,8 @@
 
+### Source code and supplemental materials
+
+The supplemental materials is "supp_for_ColorCode.pdf"
+
 ## <center> Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation
 
 <center> <A HREF="https://xiaofeng-life.github.io/">Xiaofeng Cong</A><sup>+</sup>, 
