@@ -5,15 +5,6 @@ The supplemental materials is "supp_for_ColorCode.pdf"
 
 ## <center> Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation
 
-<center> <A HREF="https://xiaofeng-life.github.io/">Xiaofeng Cong</A><sup>+</sup>, 
-Jing Zhang<sup>+</sup>, Senior Member, IEEE, 
-Yeying Jin, Junming Hou, Yu Zhao, 
-Jie Gui<sup>*</sup>, Senior Member, IEEE, 
-James Tin-Yau Kwok, Fellow, IEEE, 
-Yuan Yan Tang, Life Fellow, IEEE
-
-(<sup>+</sup> equal contributions, * corresponding author)
-</center>
 
 
 🐯 **Abstract**: Underwater images often suffer from quality degradation due to absorption and scattering effects.
@@ -212,14 +203,18 @@ python train_CECFPlus_SegDeepLabPretrain_MMD.py --config configs/differ_GauMean/
 
 ### 5. Test for color enhancement, color adaptation and color interpolation
 
-All pretrained models are place at: https://drive.google.com/drive/folders/1SggrFa6KvSy91OY-qYQZVsymdXMsrsrS?usp=sharing
+[//]: # (All pretrained models are place at: https://drive.google.com/drive/folders/1SggrFa6KvSy91OY-qYQZVsymdXMsrsrS?usp=sharing)
 
-First, download "DeepLabV3.pth" and put it into "results/MyCECFPlus/".
+[//]: # (First, download "DeepLabV3.pth" and put it into "results/MyCECFPlus/".)
 
-Then, download the weight files from then put them in "pretrained_models" outside the project. 
-+ UIEB_color_enhancement.pt 
-+ UFO120_color_adaption.pt
-+ UFO120_color_interpolation.pt
+[//]: # ()
+[//]: # (Then, download the weight files from then put them in "pretrained_models" outside the project. )
+
+[//]: # (+ UIEB_color_enhancement.pt )
+
+[//]: # (+ UFO120_color_adaption.pt)
+
+[//]: # (+ UFO120_color_interpolation.pt)
 
 Then, run the following test code,
 
